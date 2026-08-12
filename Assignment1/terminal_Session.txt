@@ -1,0 +1,148 @@
+Script started on 2026-08-12 11:54:21+00:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="171" LINES="41"]
+]666;vte.shell.postexec=0\]7;file://Ubuntu/home/vboxuser/tutedude\]0;vboxuser@Ubuntu:~/tutedude\]666;vte.shell.precmd!\[?2004h]0;vboxuser@Ubuntu: ~/tutedude[01;32mvboxuser@Ubuntu[00m:[01;34m~/tutedude[00m$ ls
+[?2004l]133;C\]666;vte.shell.preexec!\terminal_Session.txt
+]666;vte.shell.postexec=0\]7;file://Ubuntu/home/vboxuser/tutedude\]0;vboxuser@Ubuntu:~/tutedude\]666;vte.shell.precmd!\[?2004h]0;vboxuser@Ubuntu: ~/tutedude[01;32mvboxuser@Ubuntu[00m:[01;34m~/tutedude[00m$ mkdir LinuxBasic
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://Ubuntu/home/vboxuser/tutedude\]0;vboxuser@Ubuntu:~/tutedude\]666;vte.shell.precmd!\[?2004h]0;vboxuser@Ubuntu: ~/tutedude[01;32mvboxuser@Ubuntu[00m:[01;34m~/tutedude[00m$ ls
+[?2004l]133;C\]666;vte.shell.preexec!\[0m[01;34mLinuxBasic[0m  terminal_Session.txt
+]666;vte.shell.postexec=0\]7;file://Ubuntu/home/vboxuser/tutedude\]0;vboxuser@Ubuntu:~/tutedude\]666;vte.shell.precmd!\[?2004h]0;vboxuser@Ubuntu: ~/tutedude[01;32mvboxuser@Ubuntu[00m:[01;34m~/tutedude[00m$ cd LinuxBasic/
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://Ubuntu/home/vboxuser/tutedude/LinuxBasic\]0;vboxuser@Ubuntu:~/tutedude/LinuxBasic\]666;vte.shell.precmd!\[?2004h]0;vboxuser@Ubuntu: ~/tutedude/LinuxBasic[01;32mvboxuser@Ubuntu[00m:[01;34m~/tutedude/LinuxBasic[00m$ mkdir test_dir
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://Ubuntu/home/vboxuser/tutedude/LinuxBasic\]0;vboxuser@Ubuntu:~/tutedude/LinuxBasic\]666;vte.shell.precmd!\[?2004h]0;vboxuser@Ubuntu: ~/tutedude/LinuxBasic[01;32mvboxuser@Ubuntu[00m:[01;34m~/tutedude/LinuxBasic[00m$ ls
+[?2004l]133;C\]666;vte.shell.preexec!\[0m[01;34mtest_dir[0m
+]666;vte.shell.postexec=0\]7;file://Ubuntu/home/vboxuser/tutedude/LinuxBasic\]0;vboxuser@Ubuntu:~/tutedude/LinuxBasic\]666;vte.shell.precmd!\[?2004h]0;vboxuser@Ubuntu: ~/tutedude/LinuxBasic[01;32mvboxuser@Ubuntu[00m:[01;34m~/tutedude/LinuxBasic[00m$ touch test_dir/example.txt
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://Ubuntu/home/vboxuser/tutedude/LinuxBasic\]0;vboxuser@Ubuntu:~/tutedude/LinuxBasic\]666;vte.shell.precmd!\[?2004h]0;vboxuser@Ubuntu: ~/tutedude/LinuxBasic[01;32mvboxuser@Ubuntu[00m:[01;34m~/tutedude/LinuxBasic[00m$ cd test_dir/
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://Ubuntu/home/vboxuser/tutedude/LinuxBasic/test_dir\]0;vboxuser@Ubuntu:~/tutedude/LinuxBasic/test_dir\]666;vte.shell.precmd!\[?2004h]0;vboxuser@Ubuntu: ~/tutedude/LinuxBasic/test_dir[01;32mvboxuser@Ubuntu[00m:[01;34m~/tutedude/LinuxBasic/test_dir[00m$ ls
+[?2004l]133;C\]666;vte.shell.preexec!\example.txt
+]666;vte.shell.postexec=0\]7;file://Ubuntu/home/vboxuser/tutedude/LinuxBasic/test_dir\]0;vboxuser@Ubuntu:~/tutedude/LinuxBasic/test_dir\]666;vte.shell.precmd!\[?2004h]0;vboxuser@Ubuntu: ~/tutedude/LinuxBasic/test_dir[01;32mvboxuser@Ubuntu[00m:[01;34m~/tutedude/LinuxBasic/test_dir[00m$ mv example.txt remas[K[K[Knamed_example.txt
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://Ubuntu/home/vboxuser/tutedude/LinuxBasic/test_dir\]0;vboxuser@Ubuntu:~/tutedude/LinuxBasic/test_dir\]666;vte.shell.precmd!\[?2004h]0;vboxuser@Ubuntu: ~/tutedude/LinuxBasic/test_dir[01;32mvboxuser@Ubuntu[00m:[01;34m~/tutedude/LinuxBasic/test_dir[00m$ ls
+[?2004l]133;C\]666;vte.shell.preexec!\renamed_example.txt
+]666;vte.shell.postexec=0\]7;file://Ubuntu/home/vboxuser/tutedude/LinuxBasic/test_dir\]0;vboxuser@Ubuntu:~/tutedude/LinuxBasic/test_dir\]666;vte.shell.precmd!\[?2004h]0;vboxuser@Ubuntu: ~/tutedude/LinuxBasic/test_dir[01;32mvboxuser@Ubuntu[00m:[01;34m~/tutedude/LinuxBasic/test_dir[00m$ 
+[?2004l]666;vte.shell.postexec=0\]7;file://Ubuntu/home/vboxuser/tutedude/LinuxBasic/test_dir\]0;vboxuser@Ubuntu:~/tutedude/LinuxBasic/test_dir\]666;vte.shell.precmd!\[?2004h]0;vboxuser@Ubuntu: ~/tutedude/LinuxBasic/test_dir[01;32mvboxuser@Ubuntu[00m:[01;34m~/tutedude/LinuxBasic/test_dir[00m$ echo Q2 Vi[K[K[K[K2[1@A[1@s[1@s[1@i[1@g[1@n[1@m[1@e[1@n[1@t
+[?2004l]133;C\]666;vte.shell.preexec!\AssignmentQ2
+]666;vte.shell.postexec=0\]7;file://Ubuntu/home/vboxuser/tutedude/LinuxBasic/test_dir\]0;vboxuser@Ubuntu:~/tutedude/LinuxBasic/test_dir\]666;vte.shell.precmd!\[?2004h]0;vboxuser@Ubuntu: ~/tutedude/LinuxBasic/test_dir[01;32mvboxuser@Ubuntu[00m:[01;34m~/tutedude/LinuxBasic/test_dir[00m$ cd~[K ~
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://Ubuntu/home/vboxuser\]0;vboxuser@Ubuntu:~\]666;vte.shell.precmd!\[?2004h]0;vboxuser@Ubuntu: ~[01;32mvboxuser@Ubuntu[00m:[01;34m~[00m$ cat /etc/passwd
+[?2004l]133;C\]666;vte.shell.preexec!\root:x:0:0:root:/root:/bin/bash
+daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
+bin:x:2:2:bin:/bin:/usr/sbin/nologin
+sys:x:3:3:sys:/dev:/usr/sbin/nologin
+sync:x:4:65534:sync:/bin:/bin/sync
+games:x:5:60:games:/usr/games:/usr/sbin/nologin
+man:x:6:12:man:/var/cache/man:/usr/sbin/nologin
+lp:x:7:7:lp:/var/spool/lpd:/usr/sbin/nologin
+mail:x:8:8:mail:/var/mail:/usr/sbin/nologin
+news:x:9:9:news:/var/spool/news:/usr/sbin/nologin
+uucp:x:10:10:uucp:/var/spool/uucp:/usr/sbin/nologin
+proxy:x:13:13:proxy:/bin:/usr/sbin/nologin
+www-data:x:33:33:www-data:/var/www:/usr/sbin/nologin
+backup:x:34:34:backup:/var/backups:/usr/sbin/nologin
+list:x:38:38:Mailing List Manager:/var/list:/usr/sbin/nologin
+irc:x:39:39:ircd:/run/ircd:/usr/sbin/nologin
+_apt:x:42:65534::/nonexistent:/usr/sbin/nologin
+nobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin
+systemd-network:x:998:998:systemd Network Management:/:/usr/sbin/nologin
+dhcpcd:x:996:996:DHCP Client Daemon:/usr/lib/dhcpcd:/bin/false
+messagebus:x:995:995:System Message Bus:/nonexistent:/usr/sbin/nologin
+syslog:x:100:101::/nonexistent:/usr/sbin/nologin
+systemd-resolve:x:989:989:systemd Resolver:/:/usr/sbin/nologin
+_chrony:x:988:988:Chrony Daemon:/var/lib/chrony:/usr/sbin/nologin
+tss:x:987:987:tss user for tpm2:/:/usr/sbin/nologin
+uuidd:x:101:105::/run/uuidd:/usr/sbin/nologin
+systemd-oom:x:986:986:systemd Userspace OOM Killer:/:/usr/sbin/nologin
+whoopsie:x:102:108::/nonexistent:/bin/false
+dnsmasq:x:999:65534:dnsmasq:/var/lib/misc:/usr/sbin/nologin
+avahi:x:103:109:Avahi mDNS daemon:/run/avahi-daemon:/usr/sbin/nologin
+nm-openvpn:x:984:984:NetworkManager OpenVPN:/var/lib/openvpn/chroot:/usr/sbin/nologin
+tcpdump:x:983:983:tcpdump:/nonexistent:/usr/sbin/nologin
+sssd:x:104:110:SSSD system user:/var/lib/sss:/usr/sbin/nologin
+speech-dispatcher:x:105:29:Speech Dispatcher:/run/speech-dispatcher:/bin/false
+usbmux:x:106:46:usbmux daemon:/var/lib/usbmux:/usr/sbin/nologin
+cups-pk-helper:x:107:111:user for cups-pk-helper service:/nonexistent:/usr/sbin/nologin
+fwupd-refresh:x:982:982:Firmware update daemon:/var/lib/fwupd:/usr/sbin/nologin
+saned:x:108:112::/var/lib/saned:/usr/sbin/nologin
+geoclue:x:109:113::/var/lib/geoclue:/usr/sbin/nologin
+cups-browsed:x:110:111::/nonexistent:/usr/sbin/nologin
+pipewire:x:981:981:system user for pipewire:/nonexistent:/usr/sbin/nologin
+hplip:x:111:7:HPLIP system user:/run/hplip:/bin/false
+gnome-remote-desktop:x:980:980:GNOME Remote Desktop:/var/lib/gnome-remote-desktop:/usr/sbin/nologin
+polkitd:x:979:979:User for polkitd:/:/usr/sbin/nologin
+rtkit:x:978:978:RealtimeKit:/proc:/usr/sbin/nologin
+colord:x:977:977:colord colour management daemon:/var/lib/colord:/usr/sbin/nologin
+gdm:x:975:975:Gnome Display Manager:/var/lib/gdm3:/bin/false
+vboxuser:x:1000:1000:vboxuser:/home/vboxuser:/bin/bash
+]666;vte.shell.postexec=0\]7;file://Ubuntu/home/vboxuser\]0;vboxuser@Ubuntu:~\]666;vte.shell.precmd!\[?2004h]0;vboxuser@Ubuntu: ~[01;32mvboxuser@Ubuntu[00m:[01;34m~[00m$ head -n 5 /etc/passwd
+[?2004l]133;C\]666;vte.shell.preexec!\root:x:0:0:root:/root:/bin/bash
+daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
+bin:x:2:2:bin:/bin:/usr/sbin/nologin
+sys:x:3:3:sys:/dev:/usr/sbin/nologin
+sync:x:4:65534:sync:/bin:/bin/sync
+]666;vte.shell.postexec=0\]7;file://Ubuntu/home/vboxuser\]0;vboxuser@Ubuntu:~\]666;vte.shell.precmd!\[?2004h]0;vboxuser@Ubuntu: ~[01;32mvboxuser@Ubuntu[00m:[01;34m~[00m$ head -n 5 /etc/passwd[C[C[1P[1P[1P[1P[1@t[1@a[1@i[1@l[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004l]133;C\]666;vte.shell.preexec!\polkitd:x:979:979:User for polkitd:/:/usr/sbin/nologin
+rtkit:x:978:978:RealtimeKit:/proc:/usr/sbin/nologin
+colord:x:977:977:colord colour management daemon:/var/lib/colord:/usr/sbin/nologin
+gdm:x:975:975:Gnome Display Manager:/var/lib/gdm3:/bin/false
+vboxuser:x:1000:1000:vboxuser:/home/vboxuser:/bin/bash
+]666;vte.shell.postexec=0\]7;file://Ubuntu/home/vboxuser\]0;vboxuser@Ubuntu:~\]666;vte.shell.precmd!\[?2004h]0;vboxuser@Ubuntu: ~[01;32mvboxuser@Ubuntu[00m:[01;34m~[00m$ echotail -n 5 /etc/passwd[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chead[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[6Pcat[C[C[C[C[C[C[C[C[C[C[C[Cd ~[Kecho AssignmentQ2[K3
+[?2004l]133;C\]666;vte.shell.preexec!\AssignmentQ3
+]666;vte.shell.postexec=0\]7;file://Ubuntu/home/vboxuser\]0;vboxuser@Ubuntu:~\]666;vte.shell.precmd!\[?2004h]0;vboxuser@Ubuntu: ~[01;32mvboxuser@Ubuntu[00m:[01;34m~[00m$ cat /etc/passwd | grep root
+[?2004l]133;C\]666;vte.shell.preexec!\[01;31m[Kroot[m[K:x:0:0:[01;31m[Kroot[m[K:/[01;31m[Kroot[m[K:/bin/bash
+nm-openvpn:x:984:984:NetworkManager OpenVPN:/var/lib/openvpn/ch[01;31m[Kroot[m[K:/usr/sbin/nologin
+]666;vte.shell.postexec=0\]7;file://Ubuntu/home/vboxuser\]0;vboxuser@Ubuntu:~\]666;vte.shell.precmd!\[?2004h]0;vboxuser@Ubuntu: ~[01;32mvboxuser@Ubuntu[00m:[01;34m~[00m$ echo cat /etc/passwd | grep root[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[10Pecho AssignmentQ3[K4
+[?2004l]133;C\]666;vte.shell.preexec!\AssignmentQ4
+]666;vte.shell.postexec=0\]7;file://Ubuntu/home/vboxuser\]0;vboxuser@Ubuntu:~\]666;vte.shell.precmd!\[?2004h]0;vboxuser@Ubuntu: ~[01;32mvboxuser@Ubuntu[00m:[01;34m~[00m$ cd /t[K[K~/tutedu[K[K[K[K[K[K[K[K[K[K[Kcd ~/tute[K[K[K[K[K[K/tutedude/LinuxBasic
+[?2004l]133;C\]666;vte.shell.preexec!\bash: cd: /tutedude/LinuxBasic: No such file or directory
+]666;vte.shell.postexec=1\]7;file://Ubuntu/home/vboxuser\]0;vboxuser@Ubuntu:~\]666;vte.shell.precmd!\[?2004h]0;vboxuser@Ubuntu: ~[01;32mvboxuser@Ubuntu[00m:[01;34m~[00m$ ls
+[?2004l]133;C\]666;vte.shell.preexec!\[0m[01;34mDesktop[0m  [01;34mDocuments[0m  [01;34mDownloads[0m  [01;34mMusic[0m  [01;34mPictures[0m  [01;34mPublic[0m  [01;34mTemplates[0m  [01;34mVideos[0m  [01;34msnap[0m  [01;34mtest_dir[0m  [01;34mtutedude[0m
+]666;vte.shell.postexec=0\]7;file://Ubuntu/home/vboxuser\]0;vboxuser@Ubuntu:~\]666;vte.shell.precmd!\[?2004h]0;vboxuser@Ubuntu: ~[01;32mvboxuser@Ubuntu[00m:[01;34m~[00m$ lscd /tutedude/LinuxBasic[1@~
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://Ubuntu/home/vboxuser/tutedude/LinuxBasic\]0;vboxuser@Ubuntu:~/tutedude/LinuxBasic\]666;vte.shell.precmd!\[?2004h]0;vboxuser@Ubuntu: ~/tutedude/LinuxBasic[01;32mvboxuser@Ubuntu[00m:[01;34m~/tutedude/LinuxBasic[00m$ ls
+[?2004l]133;C\]666;vte.shell.preexec!\[0m[01;34mtest_dir[0m
+]666;vte.shell.postexec=0\]7;file://Ubuntu/home/vboxuser/tutedude/LinuxBasic\]0;vboxuser@Ubuntu:~/tutedude/LinuxBasic\]666;vte.shell.precmd!\[?2004h]0;vboxuser@Ubuntu: ~/tutedude/LinuxBasic[01;32mvboxuser@Ubuntu[00m:[01;34m~/tutedude/LinuxBasic[00m$ zip test_dir.zip test_dir/[K[K[K[K[K[Kt_dir
+[?2004l]133;C\]666;vte.shell.preexec!\  adding: test_dir/ (stored 0%)
+]666;vte.shell.postexec=0\]7;file://Ubuntu/home/vboxuser/tutedude/LinuxBasic\]0;vboxuser@Ubuntu:~/tutedude/LinuxBasic\]666;vte.shell.precmd!\[?2004h]0;vboxuser@Ubuntu: ~/tutedude/LinuxBasic[01;32mvboxuser@Ubuntu[00m:[01;34m~/tutedude/LinuxBasic[00m$ ls
+[?2004l]133;C\]666;vte.shell.preexec!\[0m[01;34mtest_dir[0m  [01;31mtest_dir.zip[0m
+]666;vte.shell.postexec=0\]7;file://Ubuntu/home/vboxuser/tutedude/LinuxBasic\]0;vboxuser@Ubuntu:~/tutedude/LinuxBasic\]666;vte.shell.precmd!\[?2004h]0;vboxuser@Ubuntu: ~/tutedude/LinuxBasic[01;32mvboxuser@Ubuntu[00m:[01;34m~/tutedude/LinuxBasic[00m$ unzip test_dir.zip -d unzipped_dir
+[?2004l]133;C\]666;vte.shell.preexec!\Archive:  test_dir.zip
+   creating: unzipped_dir/test_dir/
+]666;vte.shell.postexec=0\]7;file://Ubuntu/home/vboxuser/tutedude/LinuxBasic\]0;vboxuser@Ubuntu:~/tutedude/LinuxBasic\]666;vte.shell.precmd!\[?2004h]0;vboxuser@Ubuntu: ~/tutedude/LinuxBasic[01;32mvboxuser@Ubuntu[00m:[01;34m~/tutedude/LinuxBasic[00m$ ls
+[?2004l]133;C\]666;vte.shell.preexec!\[0m[01;34mtest_dir[0m  [01;31mtest_dir.zip[0m  [01;34munzipped_dir[0m
+]666;vte.shell.postexec=0\]7;file://Ubuntu/home/vboxuser/tutedude/LinuxBasic\]0;vboxuser@Ubuntu:~/tutedude/LinuxBasic\]666;vte.shell.precmd!\[?2004h]0;vboxuser@Ubuntu: ~/tutedude/LinuxBasic[01;32mvboxuser@Ubuntu[00m:[01;34m~/tutedude/LinuxBasic[00m$ cd unzipped_dir/
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://Ubuntu/home/vboxuser/tutedude/LinuxBasic/unzipped_dir\]0;vboxuser@Ubuntu:~/tutedude/LinuxBasic/unzipped_dir\]666;vte.shell.precmd!\[?2004h]0;vboxuser@Ubuntu: ~/tutedude/LinuxBasic/unzipped_dir[01;32mvboxuser@Ubuntu[00m:[01;34m~/tutedude/LinuxBasic/unzipped_dir[00m$ ls
+[?2004l]133;C\]666;vte.shell.preexec!\[0m[01;34mtest_dir[0m
+]666;vte.shell.postexec=0\]7;file://Ubuntu/home/vboxuser/tutedude/LinuxBasic/unzipped_dir\]0;vboxuser@Ubuntu:~/tutedude/LinuxBasic/unzipped_dir\]666;vte.shell.precmd!\[?2004h]0;vboxuser@Ubuntu: ~/tutedude/LinuxBasic/unzipped_dir[01;32mvboxuser@Ubuntu[00m:[01;34m~/tutedude/LinuxBasic/unzipped_dir[00m$ cd ..
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://Ubuntu/home/vboxuser/tutedude/LinuxBasic\]0;vboxuser@Ubuntu:~/tutedude/LinuxBasic\]666;vte.shell.precmd!\[?2004h]0;vboxuser@Ubuntu: ~/tutedude/LinuxBasic[01;32mvboxuser@Ubuntu[00m:[01;34m~/tutedude/LinuxBasic[00m$ echocd ..[3Plscd unzipped_dir/ls[Kunzip test_dir.zip -d unzipped_dirls[Kzip test_dir.zip test_dirls[Kcd ~/tutedude/LinuxBasicls[Kcd /tutedude/LinuxBasic[6Pecho AssignmentQ4cat /etc/passwd | grep root[10Pecho AssignmentQ4[K5
+[?2004l]133;C\]666;vte.shell.preexec!\AssignmentQ5
+]666;vte.shell.postexec=0\]7;file://Ubuntu/home/vboxuser/tutedude/LinuxBasic\]0;vboxuser@Ubuntu:~/tutedude/LinuxBasic\]666;vte.shell.precmd!\[?2004h]0;vboxuser@Ubuntu: ~/tutedude/LinuxBasic[01;32mvboxuser@Ubuntu[00m:[01;34m~/tutedude/LinuxBasic[00m$ wget [7mhttps://sample-files.com/documents/txt/#google_vignette[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttps://sample-files.com/documents/txt/#google_vignette
+[?2004l]133;C\]666;vte.shell.preexec!\--2026-08-12 12:05:27--  https://sample-files.com/documents/txt/
+Resolving sample-files.com (sample-files.com)... 15.235.219.232
+Connecting to sample-files.com (sample-files.com)|15.235.219.232|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘index.html’
+
+index.html                                     [<=>                                                                                     ]       0  --.-KB/s               index.html                                     [ <=>                                                                                    ]  79.91K  --.-KB/s    in 0.1s    
+
+2026-08-12 12:05:28 (716 KB/s) - ‘index.html’ saved [81830]
+
+]666;vte.shell.postexec=0\]7;file://Ubuntu/home/vboxuser/tutedude/LinuxBasic\]0;vboxuser@Ubuntu:~/tutedude/LinuxBasic\]666;vte.shell.precmd!\[?2004h]0;vboxuser@Ubuntu: ~/tutedude/LinuxBasic[01;32mvboxuser@Ubuntu[00m:[01;34m~/tutedude/LinuxBasic[00m$ ls
+[?2004l]133;C\]666;vte.shell.preexec!\index.html  [0m[01;34mtest_dir[0m  [01;31mtest_dir.zip[0m  [01;34munzipped_dir[0m
+]666;vte.shell.postexec=0\]7;file://Ubuntu/home/vboxuser/tutedude/LinuxBasic\]0;vboxuser@Ubuntu:~/tutedude/LinuxBasic\]666;vte.shell.precmd!\[?2004h]0;vboxuser@Ubuntu: ~/tutedude/LinuxBasic[01;32mvboxuser@Ubuntu[00m:[01;34m~/tutedude/LinuxBasic[00m$ lswget https://sample-files.com/documents/txt/#google_vignette[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho AssignmentQ5[K[K6
+[?2004l]133;C\]666;vte.shell.preexec!\AssignmentQ6
+]666;vte.shell.postexec=0\]7;file://Ubuntu/home/vboxuser/tutedude/LinuxBasic\]0;vboxuser@Ubuntu:~/tutedude/LinuxBasic\]666;vte.shell.precmd!\[?2004h]0;vboxuser@Ubuntu: ~/tutedude/LinuxBasic[01;32mvboxuser@Ubuntu[00m:[01;34m~/tutedude/LinuxBasic[00m$ touch secure.txt
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://Ubuntu/home/vboxuser/tutedude/LinuxBasic\]0;vboxuser@Ubuntu:~/tutedude/LinuxBasic\]666;vte.shell.precmd!\[?2004h]0;vboxuser@Ubuntu: ~/tutedude/LinuxBasic[01;32mvboxuser@Ubuntu[00m:[01;34m~/tutedude/LinuxBasic[00m$ ls
+[?2004l]133;C\]666;vte.shell.preexec!\index.html  secure.txt  [0m[01;34mtest_dir[0m  [01;31mtest_dir.zip[0m  [01;34munzipped_dir[0m
+]666;vte.shell.postexec=0\]7;file://Ubuntu/home/vboxuser/tutedude/LinuxBasic\]0;vboxuser@Ubuntu:~/tutedude/LinuxBasic\]666;vte.shell.precmd!\[?2004h]0;vboxuser@Ubuntu: ~/tutedude/LinuxBasic[01;32mvboxuser@Ubuntu[00m:[01;34m~/tutedude/LinuxBasic[00m$ chmod a=r secure.txt [K[Kt
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://Ubuntu/home/vboxuser/tutedude/LinuxBasic\]0;vboxuser@Ubuntu:~/tutedude/LinuxBasic\]666;vte.shell.precmd!\[?2004h]0;vboxuser@Ubuntu: ~/tutedude/LinuxBasic[01;32mvboxuser@Ubuntu[00m:[01;34m~/tutedude/LinuxBasic[00m$ ls -l
+[?2004l]133;C\]666;vte.shell.preexec!\total 92
+-rw-rw-r-- 1 vboxuser vboxuser 81830 Aug 12 12:05 index.html
+-r--r--r-- 1 vboxuser vboxuser     0 Aug 12 12:06 secure.txt
+drwxrwxr-x 2 vboxuser vboxuser  4096 Aug 12 11:56 [0m[01;34mtest_dir[0m
+-rw-rw-r-- 1 vboxuser vboxuser   168 Aug 12 12:02 [01;31mtest_dir.zip[0m
+drwxrwxr-x 3 vboxuser vboxuser  4096 Aug 12 12:03 [01;34munzipped_dir[0m
+]666;vte.shell.postexec=0\]7;file://Ubuntu/home/vboxuser/tutedude/LinuxBasic\]0;vboxuser@Ubuntu:~/tutedude/LinuxBasic\]666;vte.shell.precmd!\[?2004h]0;vboxuser@Ubuntu: ~/tutedude/LinuxBasic[01;32mvboxuser@Ubuntu[00m:[01;34m~/tutedude/LinuxBasic[00m$ ls -lchmod a=r secure.txtls[Ktouch secure.txtecho AssignmentQ6[K7
+[?2004l]133;C\]666;vte.shell.preexec!\AssignmentQ7
+]666;vte.shell.postexec=0\]7;file://Ubuntu/home/vboxuser/tutedude/LinuxBasic\]0;vboxuser@Ubuntu:~/tutedude/LinuxBasic\]666;vte.shell.precmd!\[?2004h]0;vboxuser@Ubuntu: ~/tutedude/LinuxBasic[01;32mvboxuser@Ubuntu[00m:[01;34m~/tutedude/LinuxBasic[00m$ export MY_VAR="J[KHello [K, Linux"[K!"
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://Ubuntu/home/vboxuser/tutedude/LinuxBasic\]0;vboxuser@Ubuntu:~/tutedude/LinuxBasic\]666;vte.shell.precmd!\[?2004h]0;vboxuser@Ubuntu: ~/tutedude/LinuxBasic[01;32mvboxuser@Ubuntu[00m:[01;34m~/tutedude/LinuxBasic[00m$ echo $MY_VAR
+[?2004l]133;C\]666;vte.shell.preexec!\Hello, Linux!
+]666;vte.shell.postexec=0\]7;file://Ubuntu/home/vboxuser/tutedude/LinuxBasic\]0;vboxuser@Ubuntu:~/tutedude/LinuxBasic\]666;vte.shell.precmd!\[?2004h]0;vboxuser@Ubuntu: ~/tutedude/LinuxBasic[01;32mvboxuser@Ubuntu[00m:[01;34m~/tutedude/LinuxBasic[00m$ cat [K[K[K[Kcd ..
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://Ubuntu/home/vboxuser/tutedude\]0;vboxuser@Ubuntu:~/tutedude\]666;vte.shell.precmd!\[?2004h]0;vboxuser@Ubuntu: ~/tutedude[01;32mvboxuser@Ubuntu[00m:[01;34m~/tutedude[00m$ cat s[K[K[K[K[Kexit
+[?2004l]133;C\]666;vte.shell.preexec!\exit
+
+Script done on 2026-08-12 12:10:50+00:00 [COMMAND_EXIT_CODE="0"]
