@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sample Login Form</title>
+</head>
+<body>
+
+    <h2>Sign-Up Form</h2>
+    
+    <!-- The action attribute specifies where to send the data -->
+    <!-- The method="POST" attribute sends the data securely inside the HTTP body -->
+    <form action="/submit" method="POST">
+        
+        <!-- Name Input -->
+        <div>
+            <label for="username">Username/Name:</label><br>
+            <input type="text" id="username" name="username" required>
+        </div>
+        
+        <br>
+        
+        <!-- Password Input -->
+        <div>
+            <label for="password">Password:</label><br>
+            <input type="password" id="password" name="password" required>
+        </div>
+        
+        <br>
+        
+        <!-- Submit Button -->
+        <button type="submit">Submit</button>
+        
+    </form>
+
+</body>
+</html>
